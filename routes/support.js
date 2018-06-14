@@ -3,8 +3,7 @@ var router = express.Router();
 
 /* GET support listening */
 router.get('/', function(req, res, next) {
-	res.send('Test');
-	//res.render('support');
+	res.render('support');
 });
 
 module.exports = router;
