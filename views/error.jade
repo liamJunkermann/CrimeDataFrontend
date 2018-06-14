@@ -1,0 +1,18 @@
+extends layout
+
+block details
+	+nav_header
+	+nav_item( "./" ) Home
+	+nav_item( "about.html" ) About
+	+nav_item( "support.html" ) Support
+
+block content
+	.container
+		.row
+			.col-lg-12.text-center
+					h2= message + ": "+error.status
+					//-p= error.status
+					//-pre #{error.stack}
+					pre 
+
+						a(href='/') Go Back Home

@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"navbarResponsive"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"data",
+				"datalayer"
+			],
+			[
+				"featur",
+				"featureLayer"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"ari",
+				"aria-controls"
+			],
+			[
+				"dat",
+				"data-target"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"mer",
+				"mergedArr"
+			],
+			[
+				"ri",
+				"rightIndex"
+			],
+			[
+				"tem",
+				"tempRight"
+			],
+			[
+				"in",
+				"initIndex"
+			],
+			[
+				"wh",
+				"wh\twhile"
+			],
+			[
+				"lef",
+				"leftIndex"
+			],
+			[
+				"righ",
+				"rightIndex"
+			],
+			[
+				"lfe",
+				"leftIndex"
+			],
+			[
+				"temp",
+				"tempLeft"
+			],
+			[
+				"rig",
+				"rightIndex"
+			],
+			[
+				"left",
+				"leftIndex"
+			],
+			[
+				"char",
+				"charArray"
+			],
+			[
+				"read",
+				"readInt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "extends layout\n\nblock head\n\tlink(crossorigin='', href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css', integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==', rel='stylesheet')\n\tscript(crossorigin='', integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==', src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js')\n\n\tstyle.\n\t\t#mapid{\n\t\theight: 75vh;\n\t\t}\n\nblock details\n\t+nav_header\n\t+nav_item( \"/\", \"active\" ) Home\n\t+nav_item( \"about.html\" ) About\n\t+nav_item( \"support.html\" ) Support\nblock content\n\t.container\n\t\t#mapidfaf\n\t\t\tscript(type='text/javascript').\n\t\t\t\tvar mymap = L.map('mapid').setView([42.35712, -71.06181], 12);\n\t\t\t\tL.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {\n\t\t\t\t    attribution: 'Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>',\n\t\t\t\t    maxZoom: 18,\n\t\t\t\t    id: 'mapbox.light',\n\t\t\t\t    accessToken: 'pk.eyJ1IjoidGhlcmVhbHNsaW1zcXVpc2h5IiwiYSI6ImNqaHVuaW40MDBxaDQzbHBxdWJheHN4MGMifQ.mmmK57B3X0UqoFDPr3ntDA'\n\t\t\t\t}).addTo(mymap);\n\t\t\t\t$.getJSON(\"./pyScriptOut.geojson\", function(data) {\n\t\t\t\t    // add GeoJSON layer to the map once the file is loaded\n\t\t\t\t    var datalayer = L.geoJson(data, {\n\t\t\t\t        onEachFeature: function(feature, featureLayer) {\n\t\t\t\t            featureLayer.bindPopup(feature.properties.OFFENSE_CODE_GROUP);\n\t\t\t\t        }\n\t\t\t\t    }).addTo(newMap);\n\t\t\t\t    newMap.fitBounds(datalayer.getBounds());\n\t\t\t\t});",
+			"file": "views/index.jade",
+			"file_size": 1666,
+			"file_write_time": 131734522104470542,
+			"settings":
+			{
+				"buffer_size": 1668,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 797,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1076,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 205,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/error.jade",
+			"settings":
+			{
+				"buffer_size": 327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/mixins.jade",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termain",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"acka",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"term",
+				"Open in Terminal"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib,urllib.request,os,zipfile; pf='Package Decontrol.sublime-package'; pp=sublime.packages_path(); fp=os.path.join(pp,pf); urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); open(fp,'wb').write(urllib.request.urlopen('http://bit.ly/s3-package-decontrol').read()); zipfile.ZipFile(fp).extractall(os.path.join(pp, 'Package Decontrol'))",
+			"import urllib2,os,zipfile; pf='Package Decontrol.sublime-package'; pp=sublime.packages_path(); fp=os.path.join(pp,pf); urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(fp,'wb').write(urllib2.urlopen('http://bit.ly/package-decontrol').read()); zipfile.ZipFile(fp).extractall(os.path.join(pp, 'Package Decontrol'))",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/bin",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/public",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/public/images",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/public/javascripts",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/public/stylesheets",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/routes",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/views"
+	],
+	"file_history":
+	[
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/package.json",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/views/404.jade",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/NodeAppletExpress/routes/index.js",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/index3.html",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/nodeAppletExpress/routes/index.js",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/nodeApplet/package.json",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/nodeApplet/app.js",
+		"/Users/liam/Downloads/BostonCrimeDataAnalysis/dataset.js",
+		"/Users/liam/Documents/Programming/Java/BinarySearch.java",
+		"/Users/liam/Documents/Programming/SpendingApp/index.html",
+		"/Users/liam/Documents/Programming/SpendingApp/main.js",
+		"/Users/liam/.hammerspoon/init.lua",
+		"/Users/liam/Documents/Programming/electron-quick-start/README.md",
+		"/Users/liam/Documents/Programming/electron-app/src/index.html",
+		"/Users/liam/Documents/Python/HelloWorld.py",
+		"/Users/liam/Documents/Solidity?/Contract.sol",
+		"/Users/liam/CommonMistakes.java",
+		"/Users/liam/Documents/Java/Keyboard.java",
+		"/Users/liam/eclipse-workspace/ComputerScience/src/GeneralConversion.java",
+		"/Users/liam/eclipse-workspace/ComputerScience/src/truncatingDecimal/Keyboard.java",
+		"/Users/liam/eclipse-workspace/ComputerScience/src/keyboardClass/Keyboard.java"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/error.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/mixins.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "NodeApplet.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
