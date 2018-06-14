@@ -1,0 +1,1804 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-22 16:32:00",
+            "YEAR": 2018,
+            "Lat": 42.25001483,
+            "Long": -71.11563053,
+            "Location": "(42.25001483, -71.11563053)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.11563053, 42.25001483]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-22 12:28:00",
+            "YEAR": 2018,
+            "Lat": 42.29415023,
+            "Long": -71.08175047,
+            "Location": "(42.29415023, -71.08175047)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08175047, 42.29415023]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-22 11:39:00",
+            "YEAR": 2018,
+            "Lat": 42.28039667,
+            "Long": -71.09473186,
+            "Location": "(42.28039667, -71.09473186)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09473186, 42.28039667]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-22 11:30:00",
+            "YEAR": 2018,
+            "Lat": 42.36244024,
+            "Long": -71.05855396,
+            "Location": "(42.36244024, -71.05855396)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05855396, 42.36244024]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-22 04:50:00",
+            "YEAR": 2018,
+            "Lat": 42.31014403,
+            "Long": -71.08759179,
+            "Location": "(42.31014403, -71.08759179)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08759179, 42.31014403]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-22 00:44:00",
+            "YEAR": 2018,
+            "Lat": 42.28908473,
+            "Long": -71.07122181,
+            "Location": "(42.28908473, -71.07122181)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07122181, 42.28908473]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 21:13:00",
+            "YEAR": 2018,
+            "Lat": 42.32344705,
+            "Long": -71.08954531,
+            "Location": "(42.32344705, -71.08954531)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08954531, 42.32344705]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 09:00:00",
+            "YEAR": 2018,
+            "Lat": 42.35892279,
+            "Long": -71.05835354,
+            "Location": "(42.35892279, -71.05835354)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05835354, 42.35892279]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 21:35:00",
+            "YEAR": 2018,
+            "Lat": 42.31553312,
+            "Long": -71.09519891,
+            "Location": "(42.31553312, -71.09519891)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09519891, 42.31553312]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 19:04:00",
+            "YEAR": 2018,
+            "Lat": 42.3642384,
+            "Long": -71.06165515,
+            "Location": "(42.36423840, -71.06165515)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06165515, 42.3642384]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-21 19:10:00",
+            "YEAR": 2018,
+            "Lat": 42.3379028,
+            "Long": -71.05611348,
+            "Location": "(42.33790280, -71.05611348)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05611348, 42.3379028]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 15:55:00",
+            "YEAR": 2018,
+            "Lat": 42.33210843,
+            "Long": -71.07014395,
+            "Location": "(42.33210843, -71.07014395)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07014395, 42.33210843]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-21 08:18:00",
+            "YEAR": 2018,
+            "Lat": 42.32662599,
+            "Long": -71.11278713,
+            "Location": "(42.32662599, -71.11278713)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.11278713, 42.32662599]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 04:32:00",
+            "YEAR": 2018,
+            "Lat": 42.36423833,
+            "Long": -71.03344046,
+            "Location": "(42.36423833, -71.03344046)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.03344046, 42.36423833]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 02:30:00",
+            "YEAR": 2018,
+            "Lat": 42.35213476,
+            "Long": -71.06266757,
+            "Location": "(42.35213476, -71.06266757)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06266757, 42.35213476]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-21 00:04:00",
+            "YEAR": 2018,
+            "Lat": 42.34241899,
+            "Long": -71.09678306,
+            "Location": "(42.34241899, -71.09678306)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09678306, 42.34241899]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-20 23:14:00",
+            "YEAR": 2018,
+            "Lat": 42.30956305,
+            "Long": -71.08990197,
+            "Location": "(42.30956305, -71.08990197)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08990197, 42.30956305]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-20 22:38:00",
+            "YEAR": 2018,
+            "Lat": 42.2806123,
+            "Long": -71.08350146,
+            "Location": "(42.28061230, -71.08350146)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08350146, 42.2806123]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-20 18:34:00",
+            "YEAR": 2018,
+            "Lat": 42.3259494,
+            "Long": -71.08345013,
+            "Location": "(42.32594940, -71.08345013)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08345013, 42.3259494]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-20 16:27:00",
+            "YEAR": 2018,
+            "Lat": 42.27133005,
+            "Long": -71.08299865,
+            "Location": "(42.27133005, -71.08299865)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08299865, 42.27133005]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-17 16:15:00",
+            "YEAR": 2018,
+            "Lat": 42.26985916,
+            "Long": -71.09346353,
+            "Location": "(42.26985916, -71.09346353)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09346353, 42.26985916]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-20 08:42:00",
+            "YEAR": 2018,
+            "Lat": 42.29244178,
+            "Long": -71.07320696,
+            "Location": "(42.29244178, -71.07320696)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07320696, 42.29244178]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-20 02:59:00",
+            "YEAR": 2018,
+            "Lat": 42.35521429,
+            "Long": -71.06206351,
+            "Location": "(42.35521429, -71.06206351)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06206351, 42.35521429]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-20 00:54:00",
+            "YEAR": 2018,
+            "Lat": 42.33119415,
+            "Long": -71.07481518,
+            "Location": "(42.33119415, -71.07481518)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07481518, 42.33119415]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-19 20:15:00",
+            "YEAR": 2018,
+            "Lat": 42.34091586,
+            "Long": -71.08771531,
+            "Location": "(42.34091586, -71.08771531)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08771531, 42.34091586]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 18:54:00",
+            "YEAR": 2018,
+            "Lat": 42.25398213,
+            "Long": -71.11547745,
+            "Location": "(42.25398213, -71.11547745)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.11547745, 42.25398213]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 14:36:00",
+            "YEAR": 2018,
+            "Lat": 42.28881222,
+            "Long": -71.08513152,
+            "Location": "(42.28881222, -71.08513152)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08513152, 42.28881222]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 13:22:00",
+            "YEAR": 2018,
+            "Lat": 42.32553801,
+            "Long": -71.06579592,
+            "Location": "(42.32553801, -71.06579592)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06579592, 42.32553801]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 09:01:00",
+            "YEAR": 2018,
+            "Lat": 42.30090969,
+            "Long": -71.07425843,
+            "Location": "(42.30090969, -71.07425843)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07425843, 42.30090969]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 07:30:00",
+            "YEAR": 2018,
+            "Lat": 42.3358572,
+            "Long": -71.08667847,
+            "Location": "(42.33585720, -71.08667847)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08667847, 42.3358572]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-19 06:30:00",
+            "YEAR": 2018,
+            "Lat": 42.30887462,
+            "Long": -71.10247235,
+            "Location": "(42.30887462, -71.10247235)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.10247235, 42.30887462]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-19 03:48:00",
+            "YEAR": 2018,
+            "Lat": 42.33138444,
+            "Long": -71.05697531,
+            "Location": "(42.33138444, -71.05697531)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05697531, 42.33138444]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-19 03:48:00",
+            "YEAR": 2018,
+            "Lat": 42.33138444,
+            "Long": -71.05697531,
+            "Location": "(42.33138444, -71.05697531)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05697531, 42.33138444]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-18 23:53:00",
+            "YEAR": 2018,
+            "Lat": 42.32422562,
+            "Long": -71.05242608,
+            "Location": "(42.32422562, -71.05242608)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05242608, 42.32422562]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1510,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-18 23:53:00",
+            "YEAR": 2018,
+            "Lat": 42.32422562,
+            "Long": -71.05242608,
+            "Location": "(42.32422562, -71.05242608)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05242608, 42.32422562]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-18 19:33:00",
+            "YEAR": 2018,
+            "Lat": 42.31915303,
+            "Long": -71.07775478,
+            "Location": "(42.31915303, -71.07775478)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07775478, 42.31915303]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-18 11:42:00",
+            "YEAR": 2018,
+            "Lat": 42.33619626,
+            "Long": -71.07787036,
+            "Location": "(42.33619626, -71.07787036)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07787036, 42.33619626]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-18 00:27:00",
+            "YEAR": 2018,
+            "Lat": 42.28860779,
+            "Long": -71.09240612,
+            "Location": "(42.28860779, -71.09240612)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09240612, 42.28860779]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-17 17:54:00",
+            "YEAR": 2018,
+            "Lat": 42.2945837,
+            "Long": -71.06898342,
+            "Location": "(42.29458370, -71.06898342)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06898342, 42.2945837]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-17 12:39:00",
+            "YEAR": 2018,
+            "Lat": 42.34932471,
+            "Long": -71.08014801,
+            "Location": "(42.34932471, -71.08014801)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08014801, 42.34932471]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-16 22:00:00",
+            "YEAR": 2018,
+            "Lat": 42.35311007,
+            "Long": -71.06432264,
+            "Location": "(42.35311007, -71.06432264)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06432264, 42.35311007]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-16 14:07:00",
+            "YEAR": 2018,
+            "Lat": 42.31734603,
+            "Long": -71.0567131,
+            "Location": "(42.31734603, -71.05671310)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0567131, 42.31734603]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-16 13:02:00",
+            "YEAR": 2018,
+            "Lat": 42.30711484,
+            "Long": -71.08425151,
+            "Location": "(42.30711484, -71.08425151)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08425151, 42.30711484]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-14 01:00:00",
+            "YEAR": 2018,
+            "Lat": 42.28414025,
+            "Long": -71.09305138,
+            "Location": "(42.28414025, -71.09305138)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09305138, 42.28414025]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-15 22:23:00",
+            "YEAR": 2018,
+            "Lat": 42.38229155,
+            "Long": -71.04036424,
+            "Location": "(42.38229155, -71.04036424)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.04036424, 42.38229155]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-15 17:57:00",
+            "YEAR": 2018,
+            "Lat": 42.35315862,
+            "Long": -71.13289373,
+            "Location": "(42.35315862, -71.13289373)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.13289373, 42.35315862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-15 12:53:00",
+            "YEAR": 2018,
+            "Lat": 42.28314378,
+            "Long": -71.06766456,
+            "Location": "(42.28314378, -71.06766456)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06766456, 42.28314378]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-15 06:51:00",
+            "YEAR": 2018,
+            "Lat": 42.39166628,
+            "Long": -71.01042824,
+            "Location": "(42.39166628, -71.01042824)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.01042824, 42.39166628]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 22:30:00",
+            "YEAR": 2018,
+            "Lat": 42.34835708,
+            "Long": -71.13645291,
+            "Location": "(42.34835708, -71.13645291)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.13645291, 42.34835708]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 17:30:00",
+            "YEAR": 2018,
+            "Lat": 42.33535781,
+            "Long": -71.04590903,
+            "Location": "(42.33535781, -71.04590903)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.04590903, 42.33535781]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-14 12:41:00",
+            "YEAR": 2018,
+            "Lat": 42.28148631,
+            "Long": -71.07756482,
+            "Location": "(42.28148631, -71.07756482)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07756482, 42.28148631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-14 18:55:00",
+            "YEAR": 2018,
+            "Lat": NaN,
+            "Long": NaN,
+            "Location": "(0.00000000, 0.00000000)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [NaN, NaN]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 16:38:00",
+            "YEAR": 2018,
+            "Lat": 42.27891807,
+            "Long": -71.0931412,
+            "Location": "(42.27891807, -71.09314120)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0931412, 42.27891807]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 12:27:00",
+            "YEAR": 2018,
+            "Lat": 42.31928523,
+            "Long": -71.05027167,
+            "Location": "(42.31928523, -71.05027167)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05027167, 42.31928523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-14 12:41:00",
+            "YEAR": 2018,
+            "Lat": 42.28431486,
+            "Long": -71.07410838,
+            "Location": "(42.28431486, -71.07410838)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07410838, 42.28431486]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 11:44:00",
+            "YEAR": 2018,
+            "Lat": 42.32653564,
+            "Long": -71.06665971,
+            "Location": "(42.32653564, -71.06665971)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06665971, 42.32653564]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-14 06:39:00",
+            "YEAR": 2018,
+            "Lat": 42.3523119,
+            "Long": -71.0637051,
+            "Location": "(42.35231190, -71.06370510)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0637051, 42.3523119]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-14 03:28:00",
+            "YEAR": 2018,
+            "Lat": 42.38196252,
+            "Long": -71.03026651,
+            "Location": "(42.38196252, -71.03026651)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.03026651, 42.38196252]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 02:10:00",
+            "YEAR": 2018,
+            "Lat": 42.3575462,
+            "Long": -71.05881953,
+            "Location": "(42.35754620, -71.05881953)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05881953, 42.3575462]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 00:28:00",
+            "YEAR": 2018,
+            "Lat": 42.35540113,
+            "Long": -71.13090649,
+            "Location": "(42.35540113, -71.13090649)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.13090649, 42.35540113]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-14 00:00:00",
+            "YEAR": 2018,
+            "Lat": 42.30645148,
+            "Long": -71.07730382,
+            "Location": "(42.30645148, -71.07730382)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07730382, 42.30645148]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-13 23:31:00",
+            "YEAR": 2018,
+            "Lat": 42.32902469,
+            "Long": -71.08341505,
+            "Location": "(42.32902469, -71.08341505)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08341505, 42.32902469]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-13 22:51:00",
+            "YEAR": 2018,
+            "Lat": 42.38305084,
+            "Long": -71.0173536,
+            "Location": "(42.38305084, -71.01735360)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0173536, 42.38305084]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-13 22:51:00",
+            "YEAR": 2018,
+            "Lat": 42.38305084,
+            "Long": -71.0173536,
+            "Location": "(42.38305084, -71.01735360)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0173536, 42.38305084]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-13 22:02:00",
+            "YEAR": 2018,
+            "Lat": 42.3045083,
+            "Long": -71.08075871,
+            "Location": "(42.30450830, -71.08075871)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08075871, 42.3045083]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-13 21:34:00",
+            "YEAR": 2018,
+            "Lat": 42.33506218,
+            "Long": -71.09316781,
+            "Location": "(42.33506218, -71.09316781)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09316781, 42.33506218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-13 21:11:00",
+            "YEAR": 2018,
+            "Lat": 42.3345277,
+            "Long": -71.04558133,
+            "Location": "(42.33452770, -71.04558133)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.04558133, 42.3345277]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-13 15:07:00",
+            "YEAR": 2018,
+            "Lat": 42.35591935,
+            "Long": -71.06000539,
+            "Location": "(42.35591935, -71.06000539)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06000539, 42.35591935]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-12 13:20:00",
+            "YEAR": 2018,
+            "Lat": 42.28107109,
+            "Long": -71.06925083,
+            "Location": "(42.28107109, -71.06925083)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06925083, 42.28107109]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-13 11:36:00",
+            "YEAR": 2018,
+            "Lat": 42.33428841,
+            "Long": -71.07239518,
+            "Location": "(42.33428841, -71.07239518)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07239518, 42.33428841]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-13 09:48:00",
+            "YEAR": 2018,
+            "Lat": 42.29721878,
+            "Long": -71.0656559,
+            "Location": "(42.29721878, -71.06565590)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.0656559, 42.29721878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-13 00:05:00",
+            "YEAR": 2018,
+            "Lat": 42.34717072,
+            "Long": -71.09855075,
+            "Location": "(42.34717072, -71.09855075)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09855075, 42.34717072]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-12 23:37:00",
+            "YEAR": 2018,
+            "Lat": 42.37073489,
+            "Long": -71.04028209,
+            "Location": "(42.37073489, -71.04028209)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.04028209, 42.37073489]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-03-27 07:00:00",
+            "YEAR": 2018,
+            "Lat": 42.30887534,
+            "Long": -71.06601232,
+            "Location": "(42.30887534, -71.06601232)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06601232, 42.30887534]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-12 12:12:00",
+            "YEAR": 2018,
+            "Lat": 42.29848866,
+            "Long": -71.06313294,
+            "Location": "(42.29848866, -71.06313294)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06313294, 42.29848866]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-12 09:22:00",
+            "YEAR": 2018,
+            "Lat": 42.38053192,
+            "Long": -71.03510439,
+            "Location": "(42.38053192, -71.03510439)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.03510439, 42.38053192]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-12 02:07:00",
+            "YEAR": 2018,
+            "Lat": 42.32747759,
+            "Long": -71.09509472,
+            "Location": "(42.32747759, -71.09509472)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09509472, 42.32747759]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-12 00:27:22",
+            "YEAR": 2018,
+            "Lat": 42.34838862,
+            "Long": -71.13455322,
+            "Location": "(42.34838862, -71.13455322)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.13455322, 42.34838862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-11 22:00:00",
+            "YEAR": 2018,
+            "Lat": 42.32754043,
+            "Long": -71.06598386,
+            "Location": "(42.32754043, -71.06598386)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06598386, 42.32754043]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-11 21:04:00",
+            "YEAR": 2018,
+            "Lat": 42.3300733,
+            "Long": -71.09126467,
+            "Location": "(42.33007330, -71.09126467)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09126467, 42.3300733]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-11 12:00:00",
+            "YEAR": 2018,
+            "Lat": 42.35602373,
+            "Long": -71.06177615,
+            "Location": "(42.35602373, -71.06177615)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06177615, 42.35602373]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-11 11:35:00",
+            "YEAR": 2018,
+            "Lat": NaN,
+            "Long": NaN,
+            "Location": "(0.00000000, 0.00000000)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [NaN, NaN]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-11 09:30:00",
+            "YEAR": 2018,
+            "Lat": 42.38043677,
+            "Long": -71.02611991,
+            "Location": "(42.38043677, -71.02611991)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.02611991, 42.38043677]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-10 22:47:00",
+            "YEAR": 2018,
+            "Lat": 42.34888559,
+            "Long": -71.14007361,
+            "Location": "(42.34888559, -71.14007361)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.14007361, 42.34888559]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-11 00:48:00",
+            "YEAR": 2018,
+            "Lat": 42.34875218,
+            "Long": -71.08564343,
+            "Location": "(42.34875218, -71.08564343)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08564343, 42.34875218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 111,
+            "OFFENSE_CODE_GROUP": "Homicide",
+            "OCCURRED_ON_DATE": "2018-04-10 22:00:00",
+            "YEAR": 2018,
+            "Lat": 42.36474297,
+            "Long": -71.06256983,
+            "Location": "(42.36474297, -71.06256983)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06256983, 42.36474297]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-10 20:59:00",
+            "YEAR": 2018,
+            "Lat": 42.38157881,
+            "Long": -71.02133878,
+            "Location": "(42.38157881, -71.02133878)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.02133878, 42.38157881]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-10 19:30:00",
+            "YEAR": 2018,
+            "Lat": 42.28039667,
+            "Long": -71.09473186,
+            "Location": "(42.28039667, -71.09473186)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.09473186, 42.28039667]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-10 18:57:00",
+            "YEAR": 2018,
+            "Lat": 42.3290038,
+            "Long": -71.07838214,
+            "Location": "(42.32900380, -71.07838214)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07838214, 42.3290038]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-10 18:53:00",
+            "YEAR": 2018,
+            "Lat": 42.2969956,
+            "Long": -71.15768601,
+            "Location": "(42.29699560, -71.15768601)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.15768601, 42.2969956]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-10 02:30:00",
+            "YEAR": 2018,
+            "Lat": 42.34634313,
+            "Long": -71.08482013,
+            "Location": "(42.34634313, -71.08482013)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08482013, 42.34634313]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-09 11:40:00",
+            "YEAR": 2018,
+            "Lat": 42.32328409,
+            "Long": -71.08937234,
+            "Location": "(42.32328409, -71.08937234)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.08937234, 42.32328409]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1503,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-09 10:14:00",
+            "YEAR": 2018,
+            "Lat": 42.35544757,
+            "Long": -71.05731727,
+            "Location": "(42.35544757, -71.05731727)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05731727, 42.35544757]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-09 06:07:00",
+            "YEAR": 2018,
+            "Lat": 42.30915823,
+            "Long": -71.06402751,
+            "Location": "(42.30915823, -71.06402751)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06402751, 42.30915823]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-08 19:00:00",
+            "YEAR": 2018,
+            "Lat": 42.35110203,
+            "Long": -71.05735186,
+            "Location": "(42.35110203, -71.05735186)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.05735186, 42.35110203]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 413,
+            "OFFENSE_CODE_GROUP": "Aggravated Assault",
+            "OCCURRED_ON_DATE": "2018-04-08 04:58:00",
+            "YEAR": 2018,
+            "Lat": NaN,
+            "Long": NaN,
+            "Location": "(0.00000000, 0.00000000)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [NaN, NaN]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 1501,
+            "OFFENSE_CODE_GROUP": "Firearm Violations",
+            "OCCURRED_ON_DATE": "2018-04-08 02:15:00",
+            "YEAR": 2018,
+            "Lat": 42.31269402,
+            "Long": -71.06842736,
+            "Location": "(42.31269402, -71.06842736)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.06842736, 42.31269402]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-07 23:01:00",
+            "YEAR": 2018,
+            "Lat": 42.33753031,
+            "Long": -71.07448985,
+            "Location": "(42.33753031, -71.07448985)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.07448985, 42.33753031]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 301,
+            "OFFENSE_CODE_GROUP": "Robbery",
+            "OCCURRED_ON_DATE": "2018-04-07 20:34:46",
+            "YEAR": 2018,
+            "Lat": 42.30016125,
+            "Long": -71.10898052,
+            "Location": "(42.30016125, -71.10898052)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.10898052, 42.30016125]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "police",
+            "OFFENSE_CODE": 111,
+            "OFFENSE_CODE_GROUP": "Homicide",
+            "OCCURRED_ON_DATE": "2018-04-07 17:37:00",
+            "YEAR": 2018,
+            "Lat": 42.26273505,
+            "Long": -71.11078287,
+            "Location": "(42.26273505, -71.11078287)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.11078287, 42.26273505]
+        }
+    }]
+}
